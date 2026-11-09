@@ -2,4 +2,4 @@
 
 package libc
 
-const USE_CLANG_STDDEF = 0
+type SusecondsT = X__DarwinSusecondsT
